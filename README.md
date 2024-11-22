@@ -18,7 +18,7 @@ This is a Python-based port scanning tool that scans a target IP address for ope
 ### Running the Tool
 
 1. Clone the repository: `git clone https://github.com/0ndrec/portexpress.git`
-2. Run the tool: `python port_scanner.py <target_ip_address>`
+2. Run the tool: `python scan.py <target_ip_address>`
 
 ### Example
 
